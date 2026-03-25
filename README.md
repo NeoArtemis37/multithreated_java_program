@@ -71,6 +71,6 @@ De nouveaux modules peuvent être ajoutés pour :
 - Architecture pensée pour multi-threading et extensibilité
 
 ---
-Demo et code disponible à l'adresse 
+Demo et code disponible à l'adresse sur mon compte principal 
 	
 https://github.com/Artemisxxx37/multi_threaded_java_server.git
